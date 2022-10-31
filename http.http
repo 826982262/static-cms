@@ -1,0 +1,7 @@
+@dev=http://localhost:8080
+@endpoint=http://static.smallsaas.cn:8000
+
+
+####
+//配置查询
+GET {{dev}}/api/admin/fildFile?pageNum=1&pageSize=10
